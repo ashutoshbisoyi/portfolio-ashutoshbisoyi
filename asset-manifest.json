@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/portfolio-ashutoshbisoyi/static/css/main.6686edb4.chunk.css",
+    "main.js": "/portfolio-ashutoshbisoyi/static/js/main.79985703.chunk.js",
+    "main.js.map": "/portfolio-ashutoshbisoyi/static/js/main.79985703.chunk.js.map",
+    "runtime-main.js": "/portfolio-ashutoshbisoyi/static/js/runtime-main.10741953.js",
+    "runtime-main.js.map": "/portfolio-ashutoshbisoyi/static/js/runtime-main.10741953.js.map",
+    "static/js/2.acf0dac2.chunk.js": "/portfolio-ashutoshbisoyi/static/js/2.acf0dac2.chunk.js",
+    "static/js/2.acf0dac2.chunk.js.map": "/portfolio-ashutoshbisoyi/static/js/2.acf0dac2.chunk.js.map",
+    "static/js/3.4ad0c069.chunk.js": "/portfolio-ashutoshbisoyi/static/js/3.4ad0c069.chunk.js",
+    "static/js/3.4ad0c069.chunk.js.map": "/portfolio-ashutoshbisoyi/static/js/3.4ad0c069.chunk.js.map",
+    "index.html": "/portfolio-ashutoshbisoyi/index.html",
+    "static/css/main.6686edb4.chunk.css.map": "/portfolio-ashutoshbisoyi/static/css/main.6686edb4.chunk.css.map",
+    "static/js/2.acf0dac2.chunk.js.LICENSE.txt": "/portfolio-ashutoshbisoyi/static/js/2.acf0dac2.chunk.js.LICENSE.txt",
+    "static/media/about.e6442fbf.svg": "/portfolio-ashutoshbisoyi/static/media/about.e6442fbf.svg",
+    "static/media/badabusiness.de54c21e.png": "/portfolio-ashutoshbisoyi/static/media/badabusiness.de54c21e.png",
+    "static/media/bestprice.654e5818.svg": "/portfolio-ashutoshbisoyi/static/media/bestprice.654e5818.svg",
+    "static/media/free.5a2e92a8.svg": "/portfolio-ashutoshbisoyi/static/media/free.5a2e92a8.svg",
+    "static/media/freelance.eb88c245.gif": "/portfolio-ashutoshbisoyi/static/media/freelance.eb88c245.gif",
+    "static/media/ginnovation.82a887e2.png": "/portfolio-ashutoshbisoyi/static/media/ginnovation.82a887e2.png",
+    "static/media/honourcreators.ede9aa60.png": "/portfolio-ashutoshbisoyi/static/media/honourcreators.ede9aa60.png",
+    "static/media/logo.5c2bcacd.png": "/portfolio-ashutoshbisoyi/static/media/logo.5c2bcacd.png",
+    "static/media/ontime.4dfbf8bc.svg": "/portfolio-ashutoshbisoyi/static/media/ontime.4dfbf8bc.svg",
+    "static/media/profilepicture.5705f796.png": "/portfolio-ashutoshbisoyi/static/media/profilepicture.5705f796.png",
+    "static/media/salinedo.2c82230b.png": "/portfolio-ashutoshbisoyi/static/media/salinedo.2c82230b.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.10741953.js",
+    "static/js/2.acf0dac2.chunk.js",
+    "static/css/main.6686edb4.chunk.css",
+    "static/js/main.79985703.chunk.js"
+  ]
+}
